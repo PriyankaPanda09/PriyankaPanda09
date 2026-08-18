@@ -23,7 +23,7 @@ LEFT_PAD = 30
 TOP_PAD = 20
 BOTTOM_PAD = 46
 
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+PALETTE = ["#123524", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
 TEXT_COLOR = "#8b949e"
 BG = "transparent"
 
@@ -145,5 +145,6 @@ if __name__ == "__main__":
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         f.write(svg)
     print(f"Saved {OUTPUT_PATH}")
+
 
 
