@@ -25,13 +25,13 @@
 
 ### projects
 
+**[Community Hero — Bharat Civic Hub](https://github.com/PriyankaPanda09/community-hero-bharat)**
+An AI-powered civic issue reporting platform featuring 5 autonomous AI workflows for image analysis, issue categorization, duplicate detection, verification, and predictive insights. Deployed on Google Cloud Run.
+`React` `Firebase` `Cloud Firestore` `Gemini API` · [Live demo](https://community-hero-149727530776.us-west1.run.app)
+
 **[AI-Based Carbon Footprint Tracker](https://github.com/PriyankaPanda09/ai-based-carbon-footprint-tracker)**
 Full-stack app tracking daily CO2 emissions with an AI assistant, gamified challenges, and analytics dashboards.
 `React` `FastAPI` `SQLAlchemy` `Gemini API` · [Live demo](https://ai-based-carbon-footprint-tracker-5.vercel.app)
-
-**Community Hero — Bharat Civic Hub**
-AI-powered civic issue reporting platform with 5 autonomous AI workflows for image analysis, categorization, and verification, deployed on Google Cloud Run.
-`React` `Firebase` `Cloud Firestore` `Gemini API`
 
 ---
 
