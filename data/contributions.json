@@ -1,42 +1,7 @@
 {
   "username": "PriyankaPanda09",
-  "generated_at": "2026-10-17T10:53:08.014608Z",
+  "generated_at": "2026-10-18T11:18:12.869243Z",
   "days": [
-    {
-      "date": "2025-10-12",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-13",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-14",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-15",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-16",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-17",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-18",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-19",
       "level": 0,
@@ -1854,14 +1819,19 @@
     },
     {
       "date": "2026-10-17",
-      "level": 0,
-      "count": 0
+      "level": 2,
+      "count": 2
+    },
+    {
+      "date": "2026-10-18",
+      "level": 2,
+      "count": 2
     }
   ],
   "stats": {
-    "total_last_year": 121,
-    "current_streak": 0,
-    "longest_streak": 63,
+    "total_last_year": 125,
+    "current_streak": 65,
+    "longest_streak": 65,
     "best_day": {
       "date": "2026-08-17",
       "level": 4,
@@ -1880,7 +1850,7 @@
       "2026-07": 5,
       "2026-08": 49,
       "2026-09": 41,
-      "2026-10": 20
+      "2026-10": 24
     }
   }
 }
